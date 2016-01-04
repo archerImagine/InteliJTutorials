@@ -10,3 +10,4 @@ I am trying to learn InteliJ from the video tutorials mentioned here.
 * `Shift ` + `Alt` + `Arrow` : Shift Tab [Keyboard shortcut for markdown preview tab](http://superuser.com/questions/955180/pycharm-keyboard-shortcut-for-markdown-preview-tab)
 * `soutm` + `Tab` : To get `System.out.println("Class.And.Method.Name")`
 * `soutv` + `Tab` : To get `System.out.println("Last variable used = " + value);`
+* `Shift` + `Ctrl` + `A` : Get the command pallet.
