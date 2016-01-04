@@ -11,3 +11,4 @@ I am trying to learn InteliJ from the video tutorials mentioned here.
 * `soutm` + `Tab` : To get `System.out.println("Class.And.Method.Name")`
 * `soutv` + `Tab` : To get `System.out.println("Last variable used = " + value);`
 * `Shift` + `Ctrl` + `A` : Get the command pallet.
+* `Alt` + ` tilde ` : Checkout from version Control.
