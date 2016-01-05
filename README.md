@@ -12,3 +12,4 @@ I am trying to learn InteliJ from the video tutorials mentioned here.
 * `soutv` + `Tab` : To get `System.out.println("Last variable used = " + value);`
 * `Shift` + `Ctrl` + `A` : Get the command pallet.
 * `Alt` + ` tilde ` : Checkout from version Control.
+* `Shift` + `Shift` : Search Everywhere.
